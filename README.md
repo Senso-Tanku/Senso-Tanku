@@ -6,12 +6,12 @@
 
 - Reach my socials at these locations!
 - https://www.youtube.com/@SensoTanku
-- twitter.com/@SensoTanku
-- youtube.com/@TacticallyComfy
-- twitter.com/@TacticallyComfy
+- https://www.twitter.com/@SensoTanku
+- https://www.youtube.com/@TacticallyComfy
+- https://www.twitter.com/@TacticallyComfy
 
 - My most popular video!
-- youtube.com/watch?v=dQw4w9WgXcQ
+- https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 <!---
 Senso-Tanku/Senso-Tanku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
