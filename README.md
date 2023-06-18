@@ -5,7 +5,7 @@
 - 📫 How to reach me: email me at sensotanku@gmail.com
 
 - Reach my socials at these locations!
-- youtube.com/@SensoTanku
+- https://www.youtube.com/@SensoTanku
 - twitter.com/@SensoTanku
 - youtube.com/@TacticallyComfy
 - twitter.com/@TacticallyComfy
